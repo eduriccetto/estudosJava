@@ -1,11 +1,11 @@
-
+package br.com.abc.introducao;
 
 public class Swich {
 
     public static void main(String[] args) {
         byte dia = 3;
         String diaSemana = "";
-        // tipos que podem ir dentro de um Swich
+        // tipos que podem ir dentro de um br.com.abc.introducao.Swich
         // char, int, byte, short, enum e String
 
         switch (dia) {

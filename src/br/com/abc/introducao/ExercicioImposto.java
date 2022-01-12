@@ -1,3 +1,4 @@
+package br.com.abc.introducao;
 
 /***
  * Crie uma variavel salario e imprima o seu imposto:
