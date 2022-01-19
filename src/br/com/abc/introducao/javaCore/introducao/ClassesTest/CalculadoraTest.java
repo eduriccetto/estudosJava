@@ -8,6 +8,10 @@ public class CalculadoraTest {
         Calc.soma(2,2);
         System.out.println(Calc.subtracao(4,2));    // aplicando método de retorno
         System.out.println(Calc.divisao(210,15));
+        System.out.println("==============================");
+
+        int[] numeros = {1, 2, 3, 4, 5};
+        Calc.somaArray(numeros);
 
 
     }
