@@ -1,4 +1,6 @@
-package br.com.abc.introducao.A9_SobrescritaDeMetodos;
+package br.com.abc.introducao.A9_SobrescritaDeMetodos.test;
+
+import br.com.abc.introducao.A9_SobrescritaDeMetodos.classe.Pessoa;
 
 public class PessoaTest {
     public static void main(String[] args) {

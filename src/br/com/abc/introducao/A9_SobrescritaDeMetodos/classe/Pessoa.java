@@ -1,4 +1,4 @@
-package br.com.abc.introducao.A9_SobrescritaDeMetodos;
+package br.com.abc.introducao.A9_SobrescritaDeMetodos.classe;
 
 public class Pessoa {
     private String nome;
