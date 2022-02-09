@@ -1,0 +1,5 @@
+Tem-se um conjunto de dados contendo a idade e o sexo (masculino, feminino) de 10 pessoas.
+Fazer um algoritmo que calcule e escreva:
+a. maior e a menor idade do grupo;
+b. média de idade dos homens;
+c. o número de mulheres.
