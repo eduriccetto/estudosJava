@@ -7,4 +7,5 @@ pedindo ao usuário a grade de funcionários:
 
 E depois imprima os valores cadastrados na tela e:
 - Média salarial da empresa.
-- Média de idade.
+
+
