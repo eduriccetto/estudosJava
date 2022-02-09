@@ -1,0 +1,10 @@
+Faça um sistema de cadastro de funcionários que calcule a média de salários de uma empresa,
+pedindo ao usuário a grade de funcionários:
+- Nome
+- Cargo
+- Idade
+- Salário
+
+E depois imprima os valores cadastrados na tela e:
+- Média salarial da empresa.
+- Média de idade.
