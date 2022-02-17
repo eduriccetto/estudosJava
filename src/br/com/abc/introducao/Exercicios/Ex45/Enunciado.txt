@@ -1,0 +1,4 @@
+/*******************************************************************************
+* 45) Dada uma seqüência de 10 números (vetor de inteiros), imprimi-la na ordem inversa que
+* foi realizada a leitura.
+*******************************************************************************/
