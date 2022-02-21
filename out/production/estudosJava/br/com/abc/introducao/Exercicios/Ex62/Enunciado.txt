@@ -1,0 +1,7 @@
+/*******************************************************************************
+* 1) Implementar uma classe Caneta que deve possuir como características marca,
+*	cor e tamanho. Nesta classe devem ser implementados os métodos construtores,
+*	getters, setters e toString. Em uma outra classe chamada CanetaTeste deverá
+*	ser criado um objeto do tipo Caneta, atribuir valores e exibir os dados
+*	deste objeto.
+*******************************************************************************/
