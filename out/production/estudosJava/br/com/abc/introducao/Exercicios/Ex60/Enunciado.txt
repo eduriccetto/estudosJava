@@ -1,0 +1,15 @@
+/*******************************************************************************
+* 60) Escreva um programa que retorne o número do quadrante (1,2,3 ou 4) através
+* de um método chamado VERIFICA_QUADRANTE, que deve receber um valor para x e um
+*	valor para y.
+Quadrantes
+*         x |
+*           |
+*     2o    |     1o
+*           |
+*y ----------------------
+*           |
+*           |
+*     3o    |     4o
+*           |
+*******************************************************************************/
