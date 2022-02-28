@@ -413,9 +413,10 @@
  *   0-Sair
  *
  64)-/***************************************************************************************************
-  * Implementar uma classe Aluno que contenha:
+  * Implementar uma classe Aluno:
   *
-  *   1–Nome, idade, turma e nota do Aluno.
-  *   2–Exibir no terminal o aluno cadastrado.
-  *
-  *
+  *   1–Cadastrar Aluno
+  *   2–Exibir todos os Alunos
+  *   3–Exibir quantidade de Alunos cadastrados
+  *   4–Consultar quantidade de Alunos de uma determinada turma
+  *   0-Sair
