@@ -97,5 +97,19 @@ javaScript, por exemplo, e executar no cliente.
 
 Onde por exemplo, esta minha URL: `http://localhost:3000/clients` é meu endpoint e o `/clients` é meu Resource.
 
+<br/>
 
+### STATUS DAS RESPOSTAS
+
+- 1xx: Informação
+- 2xx: Sucesso
+* 200: Ok
+* 201: Created
+* 204: Não tem conteúdo **PUT**, **POST**, **DELETE**
+- 3xx: Redirection
+- 4xx: Client Error
+* 400: Bad Error
+* 404: Not Found!
+- 5xx: Server Error
+* 500: Internal Server Error
 
