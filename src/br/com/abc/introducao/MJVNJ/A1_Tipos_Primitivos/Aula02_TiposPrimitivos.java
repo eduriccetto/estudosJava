@@ -1,4 +1,4 @@
-package br.com.abc.introducao.MJVNJ.Tipos_Primitivos;
+package br.com.abc.introducao.MJVNJ.A1_Tipos_Primitivos;
 
 public class Aula02_TiposPrimitivos {
     public static void main(String[] args) {
