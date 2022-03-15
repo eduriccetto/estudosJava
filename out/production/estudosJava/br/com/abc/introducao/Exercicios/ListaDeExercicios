@@ -419,3 +419,11 @@
   *   2–Exibir no terminal o aluno cadastrado.
   *
   *
+  65)-/***************************************************************************************************
+  * Implementar uma classe Cadastro que contenha:
+  *
+  *   0-Deve cadastrar n pessoas (profissionais) em arrays.
+  *   1–Nome, idade, cargo e salario do profissional.
+  *   2–Exibir no terminal todos os cadastros.
+  *
+  *********************************************************************************************************
