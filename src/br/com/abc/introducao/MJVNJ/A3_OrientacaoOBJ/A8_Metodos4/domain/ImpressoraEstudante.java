@@ -4,6 +4,8 @@ public class ImpressoraEstudante {
 
     public void imprime(Estudante estudante){
 
+        estudante.name = "Gohan";
+
         System.out.println("------------------------");
         System.out.println("Nome: "+estudante.name);
         System.out.println("Idade: "+estudante.idade);

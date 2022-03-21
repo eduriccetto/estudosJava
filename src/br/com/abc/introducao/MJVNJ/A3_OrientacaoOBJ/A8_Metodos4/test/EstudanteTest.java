@@ -15,7 +15,7 @@ public class EstudanteTest {
         estudante01.sexo = 'M';
 
         estudante02.name = "Sakura";
-        estudante02.idade = 15;
+        estudante02.idade = 16;
         estudante02.sexo = 'F';
 
         System.out.println("Nome: "+estudante01.name);
