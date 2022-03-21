@@ -18,4 +18,12 @@ public class Calculadora {
         return n1 - n2;
     }
 
+    public void alteraDoisNumeros(int n1, int n2){
+        n1 = 99;
+        n2 = 33;
+        System.out.println("Dentro do alteraDoisNumeros: ");
+        System.out.println("n1: "+n1);
+        System.out.println("n2: "+n2);
+    }
+
 }
