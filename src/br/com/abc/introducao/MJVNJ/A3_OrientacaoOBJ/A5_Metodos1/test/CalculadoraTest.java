@@ -1,6 +1,6 @@
-package br.com.abc.introducao.MJVNJ.A3_OrientacaoOBJ.A5_Metodos.test;
+package br.com.abc.introducao.MJVNJ.A3_OrientacaoOBJ.A5_Metodos1.test;
 
-import br.com.abc.introducao.MJVNJ.A3_OrientacaoOBJ.A5_Metodos.domain.Calculadora;
+import br.com.abc.introducao.MJVNJ.A3_OrientacaoOBJ.A5_Metodos1.domain.Calculadora;
 
 public class CalculadoraTest {
     public static void main(String[] args) {
