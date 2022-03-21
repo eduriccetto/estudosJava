@@ -16,13 +16,29 @@ public class ArraysMultDimensionais01 {
         dias[1][1] = 28;
         dias[1][2] = 31;
 
+        System.out.println("\n\n");
+
         for (int i = 0; i < dias.length; i++) {
             System.out.println(dias[i]);          // aqui estou apenas imprimindo o endereço de memória 
         }                                       // do array que referencia os outros arrays
 
+        System.out.println("\n======================\n");
+
+        //  Imprimindo os valores do array
+
         for (int i = 0; i < dias.length; i++) {
-            for (int j = 0; j < dias[0].length; j++) {
+            for (int j = 0; j < dias[i].length; j++) {
                 System.out.println(dias[i][j]);
+            }
+        }
+
+        System.out.println("\n======================\n");
+
+        // imprimindo array multimensional com foreach
+
+        for(int[] arrayBase: dias){
+            for(int num: arrayBase){
+                System.out.println(num);
             }
         }
         
