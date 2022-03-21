@@ -1,4 +1,4 @@
-package br.com.abc.introducao.MJVNJ.A3_OrientacaoOBJ.OBJ1.dominio;
+package br.com.abc.introducao.MJVNJ.A3_OrientacaoOBJ.A1_OBJ1.dominio;
 
 public class Estudante {
 

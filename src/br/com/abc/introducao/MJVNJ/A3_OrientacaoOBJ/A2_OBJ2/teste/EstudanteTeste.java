@@ -1,6 +1,6 @@
-package br.com.abc.introducao.MJVNJ.A3_OrientacaoOBJ.OBJ2.teste;
+package br.com.abc.introducao.MJVNJ.A3_OrientacaoOBJ.A2_OBJ2.teste;
 
-import br.com.abc.introducao.MJVNJ.A3_OrientacaoOBJ.OBJ2.dominio.Estudante;
+import br.com.abc.introducao.MJVNJ.A3_OrientacaoOBJ.A2_OBJ2.dominio.Estudante;
 
 public class EstudanteTeste {
     public static void main(String[] args) {

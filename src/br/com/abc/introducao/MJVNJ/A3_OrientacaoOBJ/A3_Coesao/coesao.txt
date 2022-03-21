@@ -1,0 +1,38 @@
+
+
+
+package br.com.abc.introducao.MJVNJ.A3_OrientacaoOBJ.A3_Coesao.dominio;
+
+public class Professor {
+
+    public String name;
+    public int idade;
+    public char sexo;
+
+}
+
+###########################################################
+
+Quando falamos de coesão por exemplo é que devemos criar separadamente as classes de Aluno e Professor.
+Não devemos utilizar uma unica classe para declarar os dois. Como abaixo por exemplo:
+
+###########################################################
+
+package br.com.abc.introducao.MJVNJ.A3_OrientacaoOBJ.A3_Coesao.dominio;
+
+public class Pessoa {
+
+    public String nameProfessor;
+    public int idadeProfessor;
+    public char sexoProfessor;
+
+    public char sexoAluno;
+    public char sexoAluno;
+    public char sexoAluno;
+
+}
+
+#########################################################
+
+Não devemos também, colocar um PSVM dentro de uma classe de declaração.
+Cada classe deve procurar fazer o mínimo possível.
