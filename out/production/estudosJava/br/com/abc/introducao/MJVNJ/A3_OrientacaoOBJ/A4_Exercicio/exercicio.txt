@@ -1,0 +1,8 @@
+
+Crie uma classe carro com os seguintes atributos
+
+Nome
+Modelo
+Ano
+
+Em seguida, crie dois objetos distintos e imprima os seus valores.
