@@ -4,7 +4,7 @@ public class Calculadora {
 
     public double divisao(double n1, double n2){
 
-        return n1 - n2;
+        return n1 / n2;
 
     }
 
