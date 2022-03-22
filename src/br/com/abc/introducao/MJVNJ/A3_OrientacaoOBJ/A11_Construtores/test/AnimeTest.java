@@ -13,14 +13,16 @@ public class AnimeTest {
         // aqui criamos um anime vazio, por causa daquele construtor que fizemos vazio, onde agora não é mais
         // obrigatorio a declaração como argumentos.
 
-        anime2.init("Digimon", "TV", 125, "Aventura");
+        anime2.init("Digimon", "TV", 125, "Aventura", "Globo");
 
         Anime anime3 = new Anime();
+        Anime anime4 = new Anime("CDZ", "TV", 223, "Ação", "Manchete");
 
         //anime1.init("Pokemon", "TV", 128, "Aventura");
 
         anime1.imprimi();
         anime2.imprimi();
         anime3.imprimi();
+        anime4.imprimi();
     }
 }
