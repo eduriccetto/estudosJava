@@ -1,0 +1,6 @@
+
+
+Modificadores de Acesso private, get e set
+
+    - Aclopamento tem haver com o quanto uma classe sabe da outra. E para isso, nós temos
+    os modificadores de acesso
